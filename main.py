@@ -1,7 +1,5 @@
 from random import choice
 from string import ascii_lowercase
-import time
-import asyncio
 import pygame
 pygame.init()
 
